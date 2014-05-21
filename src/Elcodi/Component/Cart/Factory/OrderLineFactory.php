@@ -12,12 +12,12 @@
  * @version ##version_placeholder##
  */
 
-namespace Elcodi\CartBundle\Factory;
+namespace Elcodi\Bundle\CartBundle\Factory;
 
 use Doctrine\Common\Collections\ArrayCollection;
 
-use Elcodi\CartBundle\Entity\OrderLine;
-use Elcodi\CoreBundle\Factory\Abstracts\AbstractFactory;
+use Elcodi\Bundle\CartBundle\Entity\OrderLine;
+use Elcodi\Bundle\CoreBundle\Factory\Abstracts\AbstractFactory;
 
 /**
  * Class OrderLine

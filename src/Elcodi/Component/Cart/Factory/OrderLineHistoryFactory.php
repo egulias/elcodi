@@ -12,12 +12,12 @@
  * @version ##version_placeholder##
  */
 
-namespace Elcodi\CartBundle\Factory;
+namespace Elcodi\Bundle\CartBundle\Factory;
 
 use DateTime;
 
-use Elcodi\CoreBundle\Factory\Abstracts\AbstractFactory;
-use Elcodi\CartBundle\Entity\OrderLineHistory;
+use Elcodi\Bundle\CoreBundle\Factory\Abstracts\AbstractFactory;
+use Elcodi\Bundle\CartBundle\Entity\OrderLineHistory;
 
 /**
  * Class OrderLineHistoryFactory

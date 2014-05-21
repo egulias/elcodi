@@ -12,13 +12,13 @@
  * @version ##version_placeholder##
  */
 
-namespace Elcodi\CartBundle\Factory;
+namespace Elcodi\Bundle\CartBundle\Factory;
 
 use Doctrine\Common\Collections\ArrayCollection;
 use DateTime;
 
-use Elcodi\CartBundle\Entity\Cart;
-use Elcodi\CoreBundle\Factory\Abstracts\AbstractFactory;
+use Elcodi\Bundle\CartBundle\Entity\Cart;
+use Elcodi\Bundle\CoreBundle\Factory\Abstracts\AbstractFactory;
 
 /**
  * Class CartFactory

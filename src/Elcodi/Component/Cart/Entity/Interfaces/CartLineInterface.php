@@ -12,9 +12,9 @@
  * @version ##version_placeholder##
  */
 
-namespace Elcodi\CartBundle\Entity\Interfaces;
+namespace Elcodi\Bundle\CartBundle\Entity\Interfaces;
 
-use Elcodi\ProductBundle\Entity\Interfaces\ProductInterface;
+use Elcodi\Bundle\ProductBundle\Entity\Interfaces\ProductInterface;
 
 /**
  * Class CartLineInterface

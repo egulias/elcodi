@@ -12,11 +12,11 @@
  * @version ##version_placeholder##
  */
 
-namespace Elcodi\CartBundle\Entity\Abstracts;
+namespace Elcodi\Bundle\CartBundle\Entity\Abstracts;
 
-use Elcodi\CoreBundle\Entity\Abstracts\AbstractEntity;
-use Elcodi\ProductBundle\Entity\Interfaces\ProductInterface;
-use Elcodi\CartBundle\Entity\Traits\PriceTrait;
+use Elcodi\Bundle\CoreBundle\Entity\Abstracts\AbstractEntity;
+use Elcodi\Bundle\ProductBundle\Entity\Interfaces\ProductInterface;
+use Elcodi\Bundle\CartBundle\Entity\Traits\PriceTrait;
 
 /**
  * Cart line

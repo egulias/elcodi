@@ -12,7 +12,7 @@
  * @version ##version_placeholder##
  */
 
-namespace Elcodi\CartBundle\Entity\Traits;
+namespace Elcodi\Bundle\CartBundle\Entity\Traits;
 
 /**
  * trait for add Entity enabled funct

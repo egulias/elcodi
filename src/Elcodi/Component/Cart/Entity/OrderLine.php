@@ -12,14 +12,14 @@
  * @version ##version_placeholder##
  */
 
-namespace Elcodi\CartBundle\Entity;
+namespace Elcodi\Bundle\CartBundle\Entity;
 
 use Doctrine\Common\Collections\Collection;
 
-use Elcodi\CartBundle\Entity\Interfaces\OrderLineHistoryInterface;
-use Elcodi\CartBundle\Entity\Interfaces\OrderInterface;
-use Elcodi\CartBundle\Entity\Interfaces\OrderLineInterface;
-use Elcodi\CartBundle\Entity\Abstracts\AbstractLine;
+use Elcodi\Bundle\CartBundle\Entity\Interfaces\OrderLineHistoryInterface;
+use Elcodi\Bundle\CartBundle\Entity\Interfaces\OrderInterface;
+use Elcodi\Bundle\CartBundle\Entity\Interfaces\OrderLineInterface;
+use Elcodi\Bundle\CartBundle\Entity\Abstracts\AbstractLine;
 
 /**
  * OrderLine

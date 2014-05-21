@@ -12,11 +12,11 @@
  * @version ##version_placeholder##
  */
 
-namespace Elcodi\CartBundle\Entity;
+namespace Elcodi\Bundle\CartBundle\Entity;
 
-use Elcodi\CartBundle\Entity\Interfaces\CartInterface;
-use Elcodi\CartBundle\Entity\Interfaces\CartLineInterface;
-use Elcodi\CartBundle\Entity\Abstracts\AbstractLine;
+use Elcodi\Bundle\CartBundle\Entity\Interfaces\CartInterface;
+use Elcodi\Bundle\CartBundle\Entity\Interfaces\CartLineInterface;
+use Elcodi\Bundle\CartBundle\Entity\Abstracts\AbstractLine;
 
 /**
  * Cart line

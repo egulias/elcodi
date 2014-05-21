@@ -12,10 +12,10 @@
  * @version ##version_placeholder##
  */
 
-namespace Elcodi\CartBundle\Factory;
+namespace Elcodi\Bundle\CartBundle\Factory;
 
-use Elcodi\CartBundle\Entity\CartLine;
-use Elcodi\CoreBundle\Factory\Abstracts\AbstractFactory;
+use Elcodi\Bundle\CartBundle\Entity\CartLine;
+use Elcodi\Bundle\CoreBundle\Factory\Abstracts\AbstractFactory;
 
 /**
  * Class CartLineFactory

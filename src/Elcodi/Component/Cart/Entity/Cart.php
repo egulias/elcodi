@@ -12,17 +12,17 @@
  * @version ##version_placeholder##
  */
 
-namespace Elcodi\CartBundle\Entity;
+namespace Elcodi\Bundle\CartBundle\Entity;
 
 use Doctrine\Common\Collections\Collection;
 
-use Elcodi\UserBundle\Entity\Interfaces\CustomerInterface;
-use Elcodi\CartBundle\Entity\Interfaces\CartLineInterface;
-use Elcodi\CartBundle\Entity\Interfaces\OrderInterface;
-use Elcodi\CoreBundle\Entity\Abstracts\AbstractEntity;
-use Elcodi\CartBundle\Entity\Interfaces\CartInterface;
-use Elcodi\CoreBundle\Entity\Traits\DateTimeTrait;
-use Elcodi\CartBundle\Entity\Traits\PriceTrait;
+use Elcodi\Bundle\UserBundle\Entity\Interfaces\CustomerInterface;
+use Elcodi\Bundle\CartBundle\Entity\Interfaces\CartLineInterface;
+use Elcodi\Bundle\CartBundle\Entity\Interfaces\OrderInterface;
+use Elcodi\Bundle\CoreBundle\Entity\Abstracts\AbstractEntity;
+use Elcodi\Bundle\CartBundle\Entity\Interfaces\CartInterface;
+use Elcodi\Bundle\CoreBundle\Entity\Traits\DateTimeTrait;
+use Elcodi\Bundle\CartBundle\Entity\Traits\PriceTrait;
 
 /**
  * Cart

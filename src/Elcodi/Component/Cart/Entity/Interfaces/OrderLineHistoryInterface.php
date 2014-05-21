@@ -12,7 +12,7 @@
  * @version ##version_placeholder##
  */
 
-namespace Elcodi\CartBundle\Entity\Interfaces;
+namespace Elcodi\Bundle\CartBundle\Entity\Interfaces;
 
 /**
  * Class OrderLineHistoryInterface

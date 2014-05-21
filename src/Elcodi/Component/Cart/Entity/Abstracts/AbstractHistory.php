@@ -12,10 +12,10 @@
  * @version ##version_placeholder##
  */
 
-namespace Elcodi\CartBundle\Entity\Abstracts;
+namespace Elcodi\Bundle\CartBundle\Entity\Abstracts;
 
-use Elcodi\CoreBundle\Entity\Abstracts\AbstractEntity;
-use Elcodi\CoreBundle\Entity\Traits\DateTimeTrait;
+use Elcodi\Bundle\CoreBundle\Entity\Abstracts\AbstractEntity;
+use Elcodi\Bundle\CoreBundle\Entity\Traits\DateTimeTrait;
 
 /**
  * Base Web User

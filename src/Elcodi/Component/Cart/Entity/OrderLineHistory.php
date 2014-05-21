@@ -12,11 +12,11 @@
  * @version ##version_placeholder##
  */
 
-namespace Elcodi\CartBundle\Entity;
+namespace Elcodi\Bundle\CartBundle\Entity;
 
-use Elcodi\CartBundle\Entity\Interfaces\OrderLineHistoryInterface;
-use Elcodi\CartBundle\Entity\Interfaces\OrderLineInterface;
-use Elcodi\CartBundle\Entity\Abstracts\AbstractHistory;
+use Elcodi\Bundle\CartBundle\Entity\Interfaces\OrderLineHistoryInterface;
+use Elcodi\Bundle\CartBundle\Entity\Interfaces\OrderLineInterface;
+use Elcodi\Bundle\CartBundle\Entity\Abstracts\AbstractHistory;
 
 /**
  * OrderLineHistory entity
